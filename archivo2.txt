@@ -1,2 +1,6 @@
 prueba 3
+<<<<<<< HEAD
 cambio ramab
+=======
+otra linea 
+>>>>>>> ramab
